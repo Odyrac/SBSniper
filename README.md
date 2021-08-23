@@ -15,6 +15,7 @@ Par exemple, imaginons que j'associe un diamant au prix de 10 coins. Si un joueu
 
 > **Note :** Pour savoir comme **installer le bot**, regardez ma vidéo explicative en cliquant  [ici](http://youtube.com/).
 
+⚠️ J'ai refais **entièrement** le code du bot pour qu'il soit le plus simplifié possible et facile à installer. Il ne sera pas le plus optimisé par rapport à d'autres bots de ce genre ! De plus, je n'ai volontairement pas respecté certaines habitudes de développeur pour faciliter son utilisation et sa compréhension de tous.
 
 ## 🇬🇧 
 - Explanations:
@@ -30,3 +31,5 @@ The bot continuously scans the sales hotel (AH) and sends you a message as soon 
 For example, let's say I match a diamond with the price of 10 coins. If a player makes a mistake and sells a diamond for 1 coin, the bot warns me and gives me a **command** to execute which will then show me the auction directly. So I will be able to buy this diamond at a very low price.
 
 > **Note:** To know how to **install the bot**, watch my explanatory video by clicking [here](http://youtube.com/). *It's in French.*
+
+⚠️ I redid **entirely** the bot code to make it as simplified as possible and easy to install. It will not be the most optimized compared to other robots of this kind! In addition, I have intentionally not respected certain development habits to facilitate its use and understanding of all.
