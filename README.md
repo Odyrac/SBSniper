@@ -20,7 +20,7 @@ Par exemple, imaginons que j'associe un diamant au prix de 10 coins. Si un joueu
 
 En réalité le bot n'envoie pas un message dès qu'il trouve un item en dessous de son prix associé mais plutôt dès qu'il en trouve un qui a au minimum -15% de bénéfices. J'ai mis ce palier pour éviter que le bot spam des -1% si le prix à l'AH de l'item en question chute.
 
-> **Note :** Pour savoir comme **installer le bot**, regardez ma vidéo explicative en cliquant  [ici](http://youtube.com/).
+> **Note :** Pour savoir comme **installer le bot**, regardez ma vidéo explicative en cliquant  [ici](https://youtu.be/LxH9-QhwYJU).
 
 🤝 Un grand merci à toutes les personnes qui m'ont accompagné dans la construction de ce bot, connaisseurs en SkyBlock, testeurs, etc... Merci à `Pepsi` pour l'aide côté Java sur le mod-ig.
 
@@ -43,7 +43,7 @@ For example, let's say I match a diamond with the price of 10 coins. If a player
 
 In reality the bot does not send a message as soon as it finds an item below its associated price but rather as soon as it finds one that has at least -15% profit. I have set this level to prevent the bot spam from -1% if the AH price of the item in question drops.
 
-> **Note:** To know how to **install the bot**, watch my explanatory video by clicking [here](http://youtube.com/). *The video is in French.*
+> **Note:** To know how to **install the bot**, watch my explanatory video by clicking [here](https://youtu.be/LxH9-QhwYJU). *The video is in French.*
 
 🤝 A big thank you to all the people who helped me build this bot, SkyBlock connoisseurs, testers, etc... Thanks to `Pepsi` for the Java side help on the mod-ig.
 
