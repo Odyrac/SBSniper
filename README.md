@@ -1,7 +1,9 @@
 # Bot Discord SkyBlock Sniper
 
+<div style="display: flex; align-items: center;     justify-content: space-between;">
 <img src="https://user-images.githubusercontent.com/85808136/130417540-74fce1ae-a0ac-4e90-bd91-376b37c3ba30.png" width="300" height="300">
 <img src="https://i.imgur.com/XZYsiq3.png" width="430" height="200">
+</div>
 
 ## 🇫🇷
 - Explications :
