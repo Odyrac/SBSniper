@@ -45,7 +45,7 @@ In reality the bot does not send a message as soon as it finds an item below its
 
 > **Note:** To know how to **install the bot**, watch my explanatory video by clicking [here](http://youtube.com/). *The video is in French.*
 
-🤝 A big thank you to all the people who helped me build this bot, SkyBlock connoisseurs, testers, etc ... Thanks to `Pepsi` for the Java side help on the mod-ig.
+🤝 A big thank you to all the people who helped me build this bot, SkyBlock connoisseurs, testers, etc... Thanks to `Pepsi` for the Java side help on the mod-ig.
 
 ⚠️ I redid **entirely** the bot code to make it as simplified as possible and easy to install. It will not be the most optimized compared to other robots of this kind! In addition, I have intentionally not respected certain development habits to facilitate its use and understanding of all.
 
