@@ -32,6 +32,6 @@ The bot continuously scans the sales hotel (AH) and sends you a message as soon 
 
 For example, let's say I match a diamond with the price of 10 coins. If a player makes a mistake and sells a diamond for 1 coin, the bot warns me and gives me a **command** to execute which will then show me the auction directly. So I will be able to buy this diamond at a very low price.
 
-> **Note:** To know how to **install the bot**, watch my explanatory video by clicking [here](http://youtube.com/). *It's in French.*
+> **Note:** To know how to **install the bot**, watch my explanatory video by clicking [here](http://youtube.com/). *The video is in French.*
 
 ⚠️ I redid **entirely** the bot code to make it as simplified as possible and easy to install. It will not be the most optimized compared to other robots of this kind! In addition, I have intentionally not respected certain development habits to facilitate its use and understanding of all.
