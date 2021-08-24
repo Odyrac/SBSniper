@@ -15,9 +15,15 @@ Le bot scan en continu l'hotêl des ventes (AH) et vous envoie un message dès q
 
 Par exemple, imaginons que j'associe un diamant au prix de 10 coins. Si un joueur se trompe et met en vente un diamant pour 1 coin, le bot me prévient et me donne une **commande** à exécuter qui m'affichera alors directement l'auction. Je pourrai donc acheter ce diamant à un prix très faible.
 
+En réalité le bot n'envoie pas un message dès qu'il trouve un item en dessous de son prix associé mais plutôt dès qu'il en trouve un qui a au minimum -15% de bénéfices. J'ai mis ce palier pour éviter que le bot spam des -1% si le prix à l'AH de l'item en question chute.
+
 > **Note :** Pour savoir comme **installer le bot**, regardez ma vidéo explicative en cliquant  [ici](http://youtube.com/).
 
+🤝 Un grand merci à toutes les personnes qui m'ont accompagné dans la construction de ce bot, connaisseurs en SkyBlock, testeurs, etc... Merci à `Pepsi` pour l'aide côté Java sur le mod-ig.
+
 ⚠️ J'ai refais **entièrement** le code du bot pour qu'il soit le plus simplifié possible et facile à installer. Il ne sera pas le plus optimisé par rapport à d'autres bots de ce genre ! De plus, je n'ai volontairement pas respecté certaines habitudes de développeur pour faciliter son utilisation et sa compréhension de tous.
+
+ℹ J'ai commencé à développer ce bot à mes débuts dans la programmation. Je me suis donc appuyé sur divers ressources vues sur Internet que j'ai ensuite améliorées/modifiées pour aboutir à ce projet. Certaines parties du code peuvent avoir été récupérées d'autres projets.
 
 ## 🇬🇧 
 - Explanations:
@@ -32,6 +38,12 @@ The bot continuously scans the sales hotel (AH) and sends you a message as soon 
 
 For example, let's say I match a diamond with the price of 10 coins. If a player makes a mistake and sells a diamond for 1 coin, the bot warns me and gives me a **command** to execute which will then show me the auction directly. So I will be able to buy this diamond at a very low price.
 
+In reality the bot does not send a message as soon as it finds an item below its associated price but rather as soon as it finds one that has at least -15% profit. I have set this level to prevent the bot spam from -1% if the AH price of the item in question drops.
+
 > **Note:** To know how to **install the bot**, watch my explanatory video by clicking [here](http://youtube.com/). *The video is in French.*
 
+🤝 A big thank you to all the people who helped me build this bot, SkyBlock connoisseurs, testers, etc ... Thanks to `Pepsi` for the Java side help on the mod-ig.
+
 ⚠️ I redid **entirely** the bot code to make it as simplified as possible and easy to install. It will not be the most optimized compared to other robots of this kind! In addition, I have intentionally not respected certain development habits to facilitate its use and understanding of all.
+
+ℹ I started developing this bot when I was just starting out in programming. I therefore relied on various resources seen on the Internet that I then improved / modified to lead to this project. Parts of the code may have been taken from other projects.
